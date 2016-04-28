@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/prueba.dir/main.cpp.o  -o prueba -rdynamic -lGLU -lGL -lSM -lICE -lX11 -lXext -lglut -lXmu -lXi 
